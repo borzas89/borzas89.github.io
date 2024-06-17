@@ -1,0 +1,18 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devrel.deeplinksbasics",
+      "sha256_cert_fingerprints": ["B9:93:FB:40:EE:71:8B:0E:7A:56:A3:E5:1F:1A:F3:FA:78:01:34:A9:7E:DE:F3:E1:38:D7:35:0D:58:92:29:47"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.interticket.cityzen.uat",
+      "sha256_cert_fingerprints": ["B9:93:FB:40:EE:71:8B:0E:7A:56:A3:E5:1F:1A:F3:FA:78:01:34:A9:7E:DE:F3:E1:38:D7:35:0D:58:92:29:47"]
+    }
+  }
+]
